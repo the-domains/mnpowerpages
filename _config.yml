@@ -1,6 +1,6 @@
 name: mnpowerpages
 favicon: null
-layout_spectrum: 0.87685
+layout_spectrum: 0.5550863880198449
 typography_spectrum: 0.1951842769049108
 cta:
   domain: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ffffff'
-    - '#fb0000'
-    - '#000000'
-    - '#9697b9'
-    - '#fc5f5f'
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
   brandStrength: 0.5906694917939603
   lightness: 0.3257579365745187
   saturation: 0.49630568106658757
