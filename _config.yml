@@ -1,0 +1,28 @@
+name: mnpowerpages
+favicon: null
+layout_spectrum: 0.87685
+typography_spectrum: 0.1951842769049108
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ffffff'
+    - '#fb0000'
+    - '#000000'
+    - '#9697b9'
+    - '#fc5f5f'
+  brandStrength: 0.5906694917939603
+  lightness: 0.3257579365745187
+  saturation: 0.49630568106658757
+  rhythmicContrast: 0.8366266093216836
+purpose: []
