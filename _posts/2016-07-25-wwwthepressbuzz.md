@@ -26,8 +26,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://www.thepress.org/minnesota-strength-sports/www-thepress-buzz'
 title: www.thepress.buzz
-datePublished: '2016-07-25T23:17:30.442Z'
-dateModified: '2016-04-14T15:31:28.161Z'
+datePublished: '2016-07-25T23:17:38.334Z'
+dateModified: '2016-04-14T15:29:40.617Z'
 starred: false
 sourcePath: _posts/2016-07-25-wwwthepressbuzz.md
 inFeed: true
